@@ -1,0 +1,13 @@
+Jumia Kenya WEBSCRAPER
+
+Scraping data on Samsung phones from Jumia Kenya.
+Data is then saved to  to MySQL database.
+
+Data retrieved can be used for:
+
+Price-monitoring and Product Research
+Better Customer analysis
+Increased productivity
+Better advertisements
+Influences Marketing and Sales Strategy
+Helps in Future analysis
